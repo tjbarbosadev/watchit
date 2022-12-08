@@ -1,0 +1,26 @@
+{
+  "name": "watchit",
+  "version": "1.0.0",
+  "description": "Node Course - Making a Nodemon look alike",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjbarbosadev/watchit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjbarbosadev/watchit/issues"
+  },
+  "homepage": "https://github.com/tjbarbosadev/watchit#readme",
+  "bin": {
+    "watchit": "index.js"
+  },
+  "dependencies": {
+    "chokidar": "^3.5.3"
+  }
+}
